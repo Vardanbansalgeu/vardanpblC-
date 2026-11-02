@@ -1,0 +1,6 @@
+{
+  "name": "SmartFile Compressor - Huffman Coding & DSA Engine",
+  "description": "Interactive Huffman coding data compression system implementing the SmartFile SFL1 binary format, file I/O, tree visualizer, bit packing simulator, and verification engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
